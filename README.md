@@ -7,7 +7,7 @@
 
 ## 📄 Demonstração
 
-- 🌐 **Deploy no GitHub Pages:** Acesse a aplicação rodando ao vivo diretamente no seu navegador: [https://mattsena42.io/simulador-copa/](https://mattsena42.io/simulador-copa/)
+- 🌐 **Deploy no GitHub Pages:** Acesse a aplicação rodando ao vivo diretamente no seu navegador: [https://mattsena42.github.io/simulador-copa/](https://mattsena42.github.io/simulador-copa/)
 
 ---
 
