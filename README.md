@@ -33,12 +33,12 @@
 
 1. Clone o repositório:
     ```bash
-    git clone [https://github.com/SeuUsuario/nome-do-repositorio.git](https://github.com/SeuUsuario/nome-do-repositorio.git)
+    git clone [https://github.com/MattSena42/simulador-copa.git](https://github.com/MattSena42/simulador-copa.git)
     ```
 
 2. Acesse a pasta do projeto:
     ```bash
-    cd nome-do-repositorio
+    cd simulador-copa
     ```
 
 3. Como o projeto não possui dependências de backend, basta abrir o arquivo `index.html` em qualquer navegador moderno para executar a aplicação localmente. Alternativamente, você pode usar a extensão *Live Server* do VS Code.
